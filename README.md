@@ -40,5 +40,5 @@ This was a personal project which was created as a learning exercise to practice
    python tkinter_unit_converter.py
 ## Screenshots
 ![Screenshot](https://i.ibb.co/s9z1snTp/distance-picture.png)
-![Screenshot](https://i.ibb.co/GQYZ4dsm/weight-picture.png)
+![Screenshot](https://i.ibb.co/3yGznHCf/weight-picture.png)
 ![Screenshot](https://i.ibb.co/zVGgz1kC/Temperarure-picture.png)
